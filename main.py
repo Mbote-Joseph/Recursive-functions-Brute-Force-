@@ -52,7 +52,6 @@ n = 16
 if (hasArrayTwoCandidates(A, len(A), n)):
 	print("Array has two elements with the given sum")
 else:
-	print("Array doesn't have two elements
-								with the given sum")
+	print("Array doesn't have two elements with the given sum")
 
 ## This code is contributed by __Devesh Agrawal__
